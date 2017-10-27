@@ -12,7 +12,7 @@
     echo "Mittels echo können Daten ausgegeben werden";
     ?></p>
 
-<p>Später könnt ihr in PHP dynamische Inhalte erzeugen. Ein einfaches Beispiel ist das aktuelle Datum auszugeben:
+<p> Ein einfaches Beispiel ist das aktuelle Datum auszugeben:
     <?php
     echo date("d.m.Y H:i:s");
     ?></p>
