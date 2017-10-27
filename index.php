@@ -6,6 +6,7 @@
 
 <body>
 <h1>Möbel Online</h1>
+<h2>Hallo</h2>
 
 <p>Dies ist eure erste PHP-Datei. Eine Scriptumgebung könnt ihr wie folgt starten:
     <?php
