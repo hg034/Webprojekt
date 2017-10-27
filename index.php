@@ -7,7 +7,7 @@
 <body>
 <h1>Möbel Online</h1>
 <h2>Hallo</h2>
-
+<h3>lala</h3>
 <p>Dies ist eure erste PHP-Datei. Eine Scriptumgebung könnt ihr wie folgt starten:
     <?php
     echo "Mittels echo können Daten ausgegeben werden";
